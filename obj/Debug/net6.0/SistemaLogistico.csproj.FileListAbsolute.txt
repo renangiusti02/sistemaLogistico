@@ -1,0 +1,189 @@
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\Trabalho LabDev\SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\thorh\Documents\Projetos.netC#\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\sistmalogisitico\LabDesenvolvimento-SistemaLogistico\SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\appsettings.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\thorh\Documents\ProjetosEmCCharp\trabflavio-atualizado\LabDev_SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\_Dev\WEB\TrabFlavio\LabDev_SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\appsettings.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.exe
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.deps.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.runtimeconfig.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.AssemblyReference.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfoInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.AssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CoreCompileInputs.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\scopedcss\bundle\SistemaLogistico.styles.css
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.csproj.CopyComplete
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\refint\SistemaLogistico.dll
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.pdb
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\SistemaLogistico.genruntimeconfig.cache
+C:\Users\Renan\OneDrive\Área de Trabalho\LabDev_SistemaLogistico\obj\Debug\net6.0\ref\SistemaLogistico.dll
